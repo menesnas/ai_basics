@@ -1,1 +1,1 @@
-# **Makine Ogrenmesi ve Derin Ogrenme alaninda ogrendiklerimi uygularken yaptigim pratikler**
+**Makine Ogrenmesi ve Derin Ogrenme alaninda ogrendiklerimi uygularken yaptigim pratikler**
